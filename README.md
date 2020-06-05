@@ -32,5 +32,8 @@ The performance of cGAN is based on our handcrafted testing dataset (test.json a
 </table>
 
 
+## Demo
 
-
+|           tes.json            |           new_test.json            	|
+| :---------------------------: | :--------------------------------: 	|
+| ![](docs/examples/test.png) 	| ![](docs/examples/new_test.png) 	|
